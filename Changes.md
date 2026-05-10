@@ -60,4 +60,4 @@
 
 ## Deployment URL
 
-- Pending. The app has not been deployed from this environment yet.
+- https://giteshchaudhari681-art.github.io/focusforge-component-architecture/
